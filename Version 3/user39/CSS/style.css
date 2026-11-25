@@ -1,6 +1,6 @@
 table {
 	font-family: "Marker Felt", "Comic Sans MS", fantasy;
-	color: #003366;
+	color: #660000;
 	margin-left: auto;
 	margin-right: auto;
 	text-align: left;
@@ -11,11 +11,26 @@ table {
 tr {
 	border: 1px solid #ffffff;
 	text-align: center;
-	background-color:#9FB6CD; 
+	background-color:#cd9f9f; 
 }
 
 th {
 	text-align: center;
 	color: #ffffff;
-	background-color: #003366;
+	background-color: #b82020;
+}
+body {
+  background-image: url("https://static.wikia.nocookie.net/eurobeat/images/2/2a/Ebk3.jpg/revision/latest?cb=20260307190020");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+ol {
+    list-style-type: upper-roman;
+    color: #fcfeff;
+}
+
+ul {
+    list-style-type: square;
+    line-height: 1.8;
+	color: #00b3ff;
 }
